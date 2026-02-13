@@ -9,7 +9,7 @@ const int MAX_POS_LETTER_COUNT = 3;
 
 const Position Position::NONE = { -1, -1 };
 
-// Реализуйте методы:
+// Р РµР°Р»РёР·СѓР№С‚Рµ РјРµС‚РѕРґС‹:
 bool Position::operator==(const Position rhs) const {}
 
 bool Position::operator<(const Position rhs) const {}
